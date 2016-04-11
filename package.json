@@ -1,0 +1,25 @@
+{
+  "name": "node-dexcom-viewer",
+  "version": "1.0.0",
+  "description": "view data from dexcom share",
+  "main": "dexcomReport.4m.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmuday/nodeDexcomViewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmuday/nodeDexcomViewer/issues"
+  },
+  "homepage": "https://github.com/mmuday/nodeDexcomViewer#readme",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "moment": "^2.12.0",
+    "querystring": "^0.2.0",
+    "request": "^2.70.0"
+  }
+}
